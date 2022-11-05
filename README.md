@@ -3,9 +3,13 @@ Real-Time Communication System Powered by AI for Specially Abled
 TEAM ID : PNT2022TMID28925
 TEAM DETAILS :
 TEAM LEADER   - Aishwarya K
+
 TEAM MEMBER - Fahima Shreen S
+
 TEAM MEMBER - Abinaya S
+
 TEAM MEMBER - Divya priya R
+
 TEAM MEMBER - Keerthana K
 
 PROJECT DETAILS :
