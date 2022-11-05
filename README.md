@@ -1,7 +1,10 @@
 # IBM-Project-12283-1659446117
 Real-Time Communication System Powered by AI for Specially Abled
+
 TEAM ID : PNT2022TMID28925
+
 TEAM DETAILS :
+
 TEAM LEADER   - Aishwarya K
 
 TEAM MEMBER - Fahima Shreen S
